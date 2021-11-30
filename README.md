@@ -1,2 +1,2 @@
 # HSE_Competitive-Data-Science
-Competitive Data Science contest Analysis
+Competitive Data Science contest Analysis.
